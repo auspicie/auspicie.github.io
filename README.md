@@ -2,7 +2,9 @@
 
 ### Education
 Data Science, MSc
+
 Science Education, MEd
+
 Science Education, B.Sc.Ed
 
 
