@@ -1,6 +1,7 @@
 # Machine Learning Engineer | Data Scientist | Artificial Intelligence | Research | Mentor
 
 ### Education
+
 •	MSc Data Science (Distinction) | Nottingham Trent University, United Kingdom (Sept 2023)
 
 •	M.Ed. Science Education (Distinction) | University of Ilorin, Nigeria (Apr 2016) 
