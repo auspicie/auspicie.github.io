@@ -3,9 +3,11 @@
 ### Education
 Data Science, MSc
 Science Education, MEd
+Science Education, B.Sc.Ed
 
 
 ### Work Experience
+Machine Learning Engineer - RemitPro
 
 
 ### Projects
